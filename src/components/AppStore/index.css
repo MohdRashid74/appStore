@@ -1,0 +1,42 @@
+.bg-container {
+  background-color: #ace0f9;
+  height: 160vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-size: 38px;
+  color: black;
+  font-weight: 1000;
+  font-family: Roboto;
+  margin-bottom: 10px;
+}
+.search-tab {
+  height: 30px;
+  width: 280px;
+  background-color: #dfe2e5;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin-bottom: 10px;
+}
+.unorderlist {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.un-list {
+  height: 80%;
+  width: 80%;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
